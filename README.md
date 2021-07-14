@@ -29,14 +29,12 @@ Data:
 Two types of data for the analysis introduced to the program
 using python:
 
-1.       
-References data: which represent our
+1.       References data: which represent our
 predictive data, that we try to fit our sample to it and compare the similarity
 to our samples data, in other words to try to find the nearest reference to our
 sample.
 
-2.       
-Samples data: which represent our true
+2.       Samples data: which represent our true
 data, the data we are trying to predict and calculating its concentration. In
 addition, finding the possible pairings of double strand in our data, which can
 construct polyApolyT or polyGpolyC primer. 
